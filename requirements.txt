@@ -1,0 +1,2 @@
+# Requires: phantom-maybe
+# (Not available on PyPI)
